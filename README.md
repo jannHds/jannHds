@@ -1,3 +1,4 @@
+<img src="cat-banner.gif" width="100%" />
 # Hi, I'm Jana Algarni 👋
 
 Artificial Intelligence student passionate about Machine Learning, Data Analysis, and AI-powered applications.
