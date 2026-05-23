@@ -6,15 +6,20 @@ Artificial Intelligence student passionate about Machine Learning, Data Analysis
 
 ---
 
-## 💻 Technical Skills
-- Python
-- Java
-- Django
-- Pandas
-- NumPy
-- Scikit-learn
-- Jupyter Notebook
-- Git & GitHub
+## 💻 Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
@@ -27,7 +32,7 @@ Django-based takeaway & delivery system with customer, staff, and manager dashbo
 Machine learning project for predicting mental health risk using lifestyle and survey data.
 
 ### 🛣️ Road Network Algorithm Comparison
-Performance comparison between Dijkstra and Bellman-Ford algorithms using real-world road network data.
+Performance comparison between Dijkstra and Bellman-Ford algorithms using real-world road network data.  
 
 ### 📊 Amazon Sentiment Analysis
 NLP project analyzing Amazon mobile reviews using sentiment analysis techniques.
@@ -43,4 +48,4 @@ Java-based hotel booking and management system developed using OOP concepts.
 - Portfolio: work on it
 
 ---
-⭐ Always learning and building new AI projects.
+⭐ Passionate about exploring emerging technologies and continuous advancements in the field of Artificial Intelligence.
