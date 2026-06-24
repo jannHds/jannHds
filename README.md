@@ -45,7 +45,7 @@ Java-based hotel booking and management system developed using OOP concepts.
 ## 📫 Connect With Me
 - GitHub: https://github.com/jannHds
 - LinkedIn: https://www.linkedin.com/in/jana-algarni-23a679310?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-- Portfolio: work on it
+- Portfolio: https://jana-portfolio-two.vercel.app/#intro
 
 ---
 ⭐ Passionate about exploring emerging technologies and continuous advancements in the field of Artificial Intelligence.
